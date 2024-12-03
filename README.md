@@ -40,7 +40,7 @@ A modern task management application built with React that helps users organize 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/thexro/TaskManager.git
+git clone https://github.com/thexro/TD.git
 cd TaskManager
 ```
 
